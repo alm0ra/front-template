@@ -13,10 +13,10 @@ const Index = () => {
           
           <div className="space-y-3">
             <h1 className="text-2xl font-bold text-neutral-900">
-              React + shadcn/ui Boilerplate
+              0xminds boilerplate
             </h1>
             <p className="text-neutral-600 leading-relaxed">
-              A premium boilerplate with React 18, TypeScript, Vite, shadcn/ui, and Tailwind CSS. Ready for enterprise-grade applications.
+              Edit this page to get started.
             </p>
           </div>
           
